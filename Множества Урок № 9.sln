@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Множества", "Множества\Множества.csproj", "{A276DD15-ACFE-4C16-8C91-AD865D43C2E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Множества 1", "Множества 1\Множества 1.csproj", "{BD7175EB-FCEE-4D9D-B481-164FD94492C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A276DD15-ACFE-4C16-8C91-AD865D43C2E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A276DD15-ACFE-4C16-8C91-AD865D43C2E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A276DD15-ACFE-4C16-8C91-AD865D43C2E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A276DD15-ACFE-4C16-8C91-AD865D43C2E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD7175EB-FCEE-4D9D-B481-164FD94492C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD7175EB-FCEE-4D9D-B481-164FD94492C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD7175EB-FCEE-4D9D-B481-164FD94492C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD7175EB-FCEE-4D9D-B481-164FD94492C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
