@@ -19,7 +19,7 @@ namespace Множества_1
             InitializeComponent();
             StoreColLection collection = new StoreColLection(@"Text.txt");
             //collection.Add(2018);
-          // collection.Add(55);                                 Привет первый коммит ещё раз
+          // collection.Add(55);                                 Привет первый коммит всё работает
             collection.Remove(56);
             foreach (int i in collection)
             {
