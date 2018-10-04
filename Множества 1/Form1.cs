@@ -19,7 +19,7 @@ namespace Множества_1
             InitializeComponent();
             StoreColLection collection = new StoreColLection(@"Text.txt");
             //collection.Add(2018);
-          // collection.Add(55);                                я испарвил Вторая ветвь
+          // collection.Add(55);                                я испарвил Вторая ветвь2 3
             foreach (int i in collection)
             {
                 richTextBox1.Text += i.ToString() + " ";
