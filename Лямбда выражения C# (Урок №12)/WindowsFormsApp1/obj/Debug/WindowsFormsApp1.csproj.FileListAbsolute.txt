@@ -1,0 +1,9 @@
+C:\Users\роман\Desktop\Изучение C#\Множества Урок № 9\Лямбда выражения C# (Урок №12)\Лямблда выражения\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\роман\Desktop\Изучение C#\Множества Урок № 9\Лямбда выражения C# (Урок №12)\Лямблда выражения\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\роман\Desktop\Изучение C#\Множества Урок № 9\Лямбда выражения C# (Урок №12)\Лямблда выражения\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\роман\Desktop\Изучение C#\Множества Урок № 9\Лямбда выражения C# (Урок №12)\Лямблда выражения\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\роман\Desktop\Изучение C#\Множества Урок № 9\Лямбда выражения C# (Урок №12)\Лямблда выражения\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\роман\Desktop\Изучение C#\Множества Урок № 9\Лямбда выражения C# (Урок №12)\Лямблда выражения\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\роман\Desktop\Изучение C#\Множества Урок № 9\Лямбда выражения C# (Урок №12)\Лямблда выражения\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\роман\Desktop\Изучение C#\Множества Урок № 9\Лямбда выражения C# (Урок №12)\Лямблда выражения\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\роман\Desktop\Изучение C#\Множества Урок № 9\Лямбда выражения C# (Урок №12)\Лямблда выражения\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
