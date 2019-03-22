@@ -1,0 +1,9 @@
+c:\users\роман\documents\visual studio 2017\Projects\сстудия ошипв\сстудия ошипв\bin\Debug\сстудия ошипв.exe.config
+c:\users\роман\documents\visual studio 2017\Projects\сстудия ошипв\сстудия ошипв\bin\Debug\сстудия ошипв.exe
+c:\users\роман\documents\visual studio 2017\Projects\сстудия ошипв\сстудия ошипв\bin\Debug\сстудия ошипв.pdb
+c:\users\роман\documents\visual studio 2017\Projects\сстудия ошипв\сстудия ошипв\obj\Debug\сстудия ошипв.csprojResolveAssemblyReference.cache
+c:\users\роман\documents\visual studio 2017\Projects\сстудия ошипв\сстудия ошипв\obj\Debug\сстудия_ошипв.Form1.resources
+c:\users\роман\documents\visual studio 2017\Projects\сстудия ошипв\сстудия ошипв\obj\Debug\сстудия_ошипв.Properties.Resources.resources
+c:\users\роман\documents\visual studio 2017\Projects\сстудия ошипв\сстудия ошипв\obj\Debug\сстудия ошипв.csproj.GenerateResource.Cache
+c:\users\роман\documents\visual studio 2017\Projects\сстудия ошипв\сстудия ошипв\obj\Debug\сстудия ошипв.exe
+c:\users\роман\documents\visual studio 2017\Projects\сстудия ошипв\сстудия ошипв\obj\Debug\сстудия ошипв.pdb

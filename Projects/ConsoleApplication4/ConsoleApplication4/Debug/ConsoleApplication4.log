@@ -1,0 +1,6 @@
+﻿  ConsoleApplication4.cpp
+c:\users\роман\documents\visual studio 2017\projects\consoleapplication4\consoleapplication4\consoleapplication4.cpp(128): error C2039: cin: не является членом "std"
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stddef.h(18): note:  см. объявление "std"
+c:\users\роман\documents\visual studio 2017\projects\consoleapplication4\consoleapplication4\consoleapplication4.cpp(128): error C2065: cin: необъявленный идентификатор
+c:\users\роман\documents\visual studio 2017\projects\consoleapplication4\consoleapplication4\consoleapplication4.cpp(128): error C2228: выражение слева от ".get" должно представлять класс, структуру или объединение
+  c:\users\роман\documents\visual studio 2017\projects\consoleapplication4\consoleapplication4\consoleapplication4.cpp(128): note: тип: unknown-type

@@ -1,0 +1,25 @@
+C:\Users\роман\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ПРобы с чпу.csprojResolveAssemblyReference.cache
+C:\Users\роман\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\роман\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ПРобы с чпу.csproj.GenerateResource.Cache
+C:\Users\роман\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\роман\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\роман\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\роман\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\роман\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\роман\Documents\Visual Studio 2017\Projects\уроки с делегатами\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\роман\Documents\Visual Studio 2017\Projects\уроки с делегатами\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\роман\Documents\Visual Studio 2017\Projects\уроки с делегатами\WindowsFormsApplication2\obj\x86\Debug\ПРобы с чпу.csprojResolveAssemblyReference.cache
+C:\Users\роман\Documents\Visual Studio 2017\Projects\уроки с делегатами\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\роман\Documents\Visual Studio 2017\Projects\уроки с делегатами\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\роман\Documents\Visual Studio 2017\Projects\уроки с делегатами\WindowsFormsApplication2\obj\x86\Debug\ПРобы с чпу.csproj.GenerateResource.Cache
+C:\Users\роман\Documents\Visual Studio 2017\Projects\уроки с делегатами\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\роман\Documents\Visual Studio 2017\Projects\уроки с делегатами\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\роман\Documents\Visual Studio 2017\Projects\уроки с делегатами и событиями\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\роман\Documents\Visual Studio 2017\Projects\уроки с делегатами и событиями\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\роман\Documents\Visual Studio 2017\Projects\уроки с делегатами и событиями\WindowsFormsApplication2\obj\x86\Debug\ПРобы с чпу.csprojResolveAssemblyReference.cache
+C:\Users\роман\Documents\Visual Studio 2017\Projects\уроки с делегатами и событиями\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Class1.resources
+C:\Users\роман\Documents\Visual Studio 2017\Projects\уроки с делегатами и событиями\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\роман\Documents\Visual Studio 2017\Projects\уроки с делегатами и событиями\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\роман\Documents\Visual Studio 2017\Projects\уроки с делегатами и событиями\WindowsFormsApplication2\obj\x86\Debug\ПРобы с чпу.csproj.GenerateResource.Cache
+C:\Users\роман\Documents\Visual Studio 2017\Projects\уроки с делегатами и событиями\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\роман\Documents\Visual Studio 2017\Projects\уроки с делегатами и событиями\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb

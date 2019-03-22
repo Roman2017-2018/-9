@@ -1,0 +1,27 @@
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojResolveAssemblyReference.cache
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.Cache
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Аскон банк курс доллара\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Аскон банк курс доллара\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Аскон банк курс доллара\WindowsFormsApp7\bin\Debug\EntityFramework.dll
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Аскон банк курс доллара\WindowsFormsApp7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Аскон банк курс доллара\WindowsFormsApp7\bin\Debug\HtmlAgilityPack.dll
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Аскон банк курс доллара\WindowsFormsApp7\bin\Debug\WebDriver.dll
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Аскон банк курс доллара\WindowsFormsApp7\bin\Debug\EntityFramework.xml
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Аскон банк курс доллара\WindowsFormsApp7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Аскон банк курс доллара\WindowsFormsApp7\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Аскон банк курс доллара\WindowsFormsApp7\bin\Debug\HtmlAgilityPack.xml
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Аскон банк курс доллара\WindowsFormsApp7\bin\Debug\WebDriver.xml
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Аскон банк курс доллара\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojResolveAssemblyReference.cache
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Аскон банк курс доллара\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Аскон банк курс доллара\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Аскон банк курс доллара\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.Cache
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Аскон банк курс доллара\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Аскон банк курс доллара\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Аскон банк курс доллара\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb

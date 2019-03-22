@@ -17,5 +17,13 @@ namespace WindowsFormsApp1
             InitializeComponent();
             button1.Click += delegate { MessageBox.Show("Кнопка нажата"); };
         }
-    }
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        
 }
+  
+}
+

@@ -1,0 +1,11 @@
+c:\users\роман\documents\visual studio 2017\Projects\chat\chat\bin\Debug\chat.exe.config
+c:\users\роман\documents\visual studio 2017\Projects\chat\chat\bin\Debug\chat.exe
+c:\users\роман\documents\visual studio 2017\Projects\chat\chat\bin\Debug\chat.pdb
+c:\users\роман\documents\visual studio 2017\Projects\chat\chat\bin\Debug\NAudio.dll
+c:\users\роман\documents\visual studio 2017\Projects\chat\chat\bin\Debug\NAudio.xml
+c:\users\роман\documents\visual studio 2017\Projects\chat\chat\obj\Debug\chat.csprojResolveAssemblyReference.cache
+c:\users\роман\documents\visual studio 2017\Projects\chat\chat\obj\Debug\chat.Form1.resources
+c:\users\роман\documents\visual studio 2017\Projects\chat\chat\obj\Debug\chat.Properties.Resources.resources
+c:\users\роман\documents\visual studio 2017\Projects\chat\chat\obj\Debug\chat.csproj.GenerateResource.Cache
+c:\users\роман\documents\visual studio 2017\Projects\chat\chat\obj\Debug\chat.exe
+c:\users\роман\documents\visual studio 2017\Projects\chat\chat\obj\Debug\chat.pdb

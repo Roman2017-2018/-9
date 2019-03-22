@@ -1,0 +1,9 @@
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp2ui\WindowsFormsApp2ui\bin\Debug\WindowsFormsApp2ui.exe.config
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp2ui\WindowsFormsApp2ui\bin\Debug\WindowsFormsApp2ui.exe
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp2ui\WindowsFormsApp2ui\bin\Debug\WindowsFormsApp2ui.pdb
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp2ui\WindowsFormsApp2ui\obj\Debug\WindowsFormsApp2ui.csprojResolveAssemblyReference.cache
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp2ui\WindowsFormsApp2ui\obj\Debug\WindowsFormsApp2ui.Properties.Resources.resources
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp2ui\WindowsFormsApp2ui\obj\Debug\WindowsFormsApp2ui.csproj.GenerateResource.Cache
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp2ui\WindowsFormsApp2ui\obj\Debug\WindowsFormsApp2ui.exe
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp2ui\WindowsFormsApp2ui\obj\Debug\WindowsFormsApp2ui.pdb
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp2ui\WindowsFormsApp2ui\obj\Debug\WindowsFormsApp2ui.Form1.resources

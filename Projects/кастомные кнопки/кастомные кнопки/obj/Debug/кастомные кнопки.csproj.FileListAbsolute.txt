@@ -1,0 +1,9 @@
+c:\users\роман\documents\visual studio 2017\Projects\кастомные кнопки\кастомные кнопки\bin\Debug\кастомные кнопки.exe.config
+c:\users\роман\documents\visual studio 2017\Projects\кастомные кнопки\кастомные кнопки\bin\Debug\кастомные кнопки.exe
+c:\users\роман\documents\visual studio 2017\Projects\кастомные кнопки\кастомные кнопки\bin\Debug\кастомные кнопки.pdb
+c:\users\роман\documents\visual studio 2017\Projects\кастомные кнопки\кастомные кнопки\obj\Debug\кастомные кнопки.csprojResolveAssemblyReference.cache
+c:\users\роман\documents\visual studio 2017\Projects\кастомные кнопки\кастомные кнопки\obj\Debug\кастомные_кнопки.Properties.Resources.resources
+c:\users\роман\documents\visual studio 2017\Projects\кастомные кнопки\кастомные кнопки\obj\Debug\кастомные кнопки.csproj.GenerateResource.Cache
+c:\users\роман\documents\visual studio 2017\Projects\кастомные кнопки\кастомные кнопки\obj\Debug\кастомные кнопки.exe
+c:\users\роман\documents\visual studio 2017\Projects\кастомные кнопки\кастомные кнопки\obj\Debug\кастомные кнопки.pdb
+c:\users\роман\documents\visual studio 2017\Projects\кастомные кнопки\кастомные кнопки\obj\Debug\кастомные_кнопки.Form1.resources

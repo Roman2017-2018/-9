@@ -1,0 +1,9 @@
+c:\users\роман\documents\visual studio 2017\Projects\SendKeys Example\SendKeys Example\bin\Debug\SendKeys Example.exe.config
+c:\users\роман\documents\visual studio 2017\Projects\SendKeys Example\SendKeys Example\bin\Debug\SendKeys Example.exe
+c:\users\роман\documents\visual studio 2017\Projects\SendKeys Example\SendKeys Example\bin\Debug\SendKeys Example.pdb
+c:\users\роман\documents\visual studio 2017\Projects\SendKeys Example\SendKeys Example\obj\Debug\SendKeys Example.csprojResolveAssemblyReference.cache
+c:\users\роман\documents\visual studio 2017\Projects\SendKeys Example\SendKeys Example\obj\Debug\SendKeys_Example.Form1.resources
+c:\users\роман\documents\visual studio 2017\Projects\SendKeys Example\SendKeys Example\obj\Debug\SendKeys_Example.Properties.Resources.resources
+c:\users\роман\documents\visual studio 2017\Projects\SendKeys Example\SendKeys Example\obj\Debug\SendKeys Example.csproj.GenerateResource.Cache
+c:\users\роман\documents\visual studio 2017\Projects\SendKeys Example\SendKeys Example\obj\Debug\SendKeys Example.exe
+c:\users\роман\documents\visual studio 2017\Projects\SendKeys Example\SendKeys Example\obj\Debug\SendKeys Example.pdb

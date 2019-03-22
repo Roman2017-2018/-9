@@ -1,0 +1,11 @@
+c:\users\роман\documents\visual studio 2017\Projects\Test Text Editor\Test Text Editor\bin\Debug\Test Text Editor.exe.config
+c:\users\роман\documents\visual studio 2017\Projects\Test Text Editor\Test Text Editor\bin\Debug\Test Text Editor.exe
+c:\users\роман\documents\visual studio 2017\Projects\Test Text Editor\Test Text Editor\bin\Debug\Test Text Editor.pdb
+c:\users\роман\documents\visual studio 2017\Projects\Test Text Editor\Test Text Editor\obj\Debug\Test Text Editor.csprojResolveAssemblyReference.cache
+c:\users\роман\documents\visual studio 2017\Projects\Test Text Editor\Test Text Editor\obj\Debug\Test_Text_Editor.MainForm.resources
+c:\users\роман\documents\visual studio 2017\Projects\Test Text Editor\Test Text Editor\obj\Debug\Test_Text_Editor.Properties.Resources.resources
+c:\users\роман\documents\visual studio 2017\Projects\Test Text Editor\Test Text Editor\obj\Debug\Test Text Editor.csproj.GenerateResource.Cache
+c:\users\роман\documents\visual studio 2017\Projects\Test Text Editor\Test Text Editor\obj\Debug\Test Text Editor.exe
+c:\users\роман\documents\visual studio 2017\Projects\Test Text Editor\Test Text Editor\obj\Debug\Test Text Editor.pdb
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\Test Text Editor\bin\Debug\TextEditor,BL.dll
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\Test Text Editor\bin\Debug\TextEditor,BL.pdb

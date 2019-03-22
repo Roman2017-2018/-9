@@ -1,0 +1,10 @@
+c:\users\роман\documents\visual studio 2017\Projects\Test with button\Test with button\bin\Debug\Test with button.exe.config
+c:\users\роман\documents\visual studio 2017\Projects\Test with button\Test with button\bin\Debug\Test with button.exe
+c:\users\роман\documents\visual studio 2017\Projects\Test with button\Test with button\bin\Debug\Test with button.pdb
+c:\users\роман\documents\visual studio 2017\Projects\Test with button\Test with button\obj\Debug\Test with button.csprojResolveAssemblyReference.cache
+c:\users\роман\documents\visual studio 2017\Projects\Test with button\Test with button\obj\Debug\Test_with_button.Animated_Button.resources
+c:\users\роман\documents\visual studio 2017\Projects\Test with button\Test with button\obj\Debug\Test_with_button.Properties.Resources.resources
+c:\users\роман\documents\visual studio 2017\Projects\Test with button\Test with button\obj\Debug\Test with button.csproj.GenerateResource.Cache
+c:\users\роман\documents\visual studio 2017\Projects\Test with button\Test with button\obj\Debug\Test with button.exe
+c:\users\роман\documents\visual studio 2017\Projects\Test with button\Test with button\obj\Debug\Test with button.pdb
+c:\users\роман\documents\visual studio 2017\Projects\Test with button\Test with button\obj\Debug\Test_with_button.Form1.resources

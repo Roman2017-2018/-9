@@ -1,0 +1,89 @@
+﻿  trainingSet.cpp
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.h(16): error C2065: Layer: необъявленный идентификатор
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.h(16): error C2923: std::vector: "Layer" не является допустимым аргументом типа шаблон для параметра "_Ty"
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.h(16): error C3203: "allocator": неспециализированный класс шаблон нельзя использовать в качестве аргумента шаблон для параметра шаблон "_Alloc", требуется действительный тип
+  neuron.cpp
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.h(16): error C2065: Layer: необъявленный идентификатор
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.h(16): error C2923: std::vector: "Layer" не является допустимым аргументом типа шаблон для параметра "_Ty"
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.h(16): error C3203: "allocator": неспециализированный класс шаблон нельзя использовать в качестве аргумента шаблон для параметра шаблон "_Alloc", требуется действительный тип
+  net.cpp
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.h(16): error C2065: Layer: необъявленный идентификатор
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.h(16): error C2923: std::vector: "Layer" не является допустимым аргументом типа шаблон для параметра "_Ty"
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.h(16): error C3203: "allocator": неспециализированный класс шаблон нельзя использовать в качестве аргумента шаблон для параметра шаблон "_Alloc", требуется действительный тип
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(10): error C2512: std::vector: нет подходящего конструктора по умолчанию
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\vector(700): note:  см. объявление "std::vector"
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(13): error C2663: std::vector<_Ty,_Alloc>::push_back: для 2 перегрузок нет допустимого преобразования для указателя "this"
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(18): error C2663: std::vector<_Ty,_Alloc>::back: для 2 перегрузок нет допустимого преобразования для указателя "this"
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(18): error C2228: выражение слева от ".push_back" должно представлять класс, структуру или объединение
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(21): error C2663: std::vector<_Ty,_Alloc>::back: для 2 перегрузок нет допустимого преобразования для указателя "this"
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(21): error C2228: выражение слева от ".back" должно представлять класс, структуру или объединение
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(21): error C2228: выражение слева от ".setOutputVal" должно представлять класс, структуру или объединение
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(30): error C2663: std::vector<_Ty,_Alloc>::back: для 2 перегрузок нет допустимого преобразования для указателя "this"
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(30): error C2228: выражение слева от ".size" должно представлять класс, структуру или объединение
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(32): error C2663: std::vector<_Ty,_Alloc>::back: для 2 перегрузок нет допустимого преобразования для указателя "this"
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(32): error C2228: выражение слева от ".getOutputVal" должно представлять класс, структуру или объединение
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(39): error C2663: std::vector<_Ty,_Alloc>::back: для 2 перегрузок нет допустимого преобразования для указателя "this"
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(39): error C2530: outputLayer: ссылки должны быть инициализированы
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(61): error C2662: _Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::size_type std::vector<_Ty,_Alloc>::size(void) noexcept const: невозможно преобразовать указатель "this" из "std::vector" в "const std::vector<_Ty,_Alloc> &"
+  c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(61): note: Причина: невозможно преобразовать "std::vector" в "const std::vector<_Ty,_Alloc>"
+  c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(61): note: Для преобразования требуется второй оператор пользовательского преобразования или конструктор
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(63): error C2678: бинарный "[": не найден оператор, принимающий левый операнд типа "std::vector" (или приемлемое преобразование отсутствует)
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\vector(1749): note: может быть "const _Ty &std::vector<_Ty,_Alloc>::operator [](const _Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::size_type) const"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\vector(1735): note: или       "_Ty &std::vector<_Ty,_Alloc>::operator [](const _Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::size_type)"
+  c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(63): note: при попытке сопоставить список аргументов "(std::vector, unsigned int)"
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(63): error C2530: hiddenLayer: ссылки должны быть инициализированы
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(64): error C2678: бинарный "[": не найден оператор, принимающий левый операнд типа "std::vector" (или приемлемое преобразование отсутствует)
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\vector(1749): note: может быть "const _Ty &std::vector<_Ty,_Alloc>::operator [](const _Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::size_type) const"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\vector(1735): note: или       "_Ty &std::vector<_Ty,_Alloc>::operator [](const _Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::size_type)"
+  c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(64): note: при попытке сопоставить список аргументов "(std::vector, unsigned int)"
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(64): error C2530: nextLayer: ссылки должны быть инициализированы
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(73): error C2662: _Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::size_type std::vector<_Ty,_Alloc>::size(void) noexcept const: невозможно преобразовать указатель "this" из "std::vector" в "const std::vector<_Ty,_Alloc> &"
+  c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(73): note: Причина: невозможно преобразовать "std::vector" в "const std::vector<_Ty,_Alloc>"
+  c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(73): note: Для преобразования требуется второй оператор пользовательского преобразования или конструктор
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(75): error C2678: бинарный "[": не найден оператор, принимающий левый операнд типа "std::vector" (или приемлемое преобразование отсутствует)
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\vector(1749): note: может быть "const _Ty &std::vector<_Ty,_Alloc>::operator [](const _Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::size_type) const"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\vector(1735): note: или       "_Ty &std::vector<_Ty,_Alloc>::operator [](const _Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::size_type)"
+  c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(75): note: при попытке сопоставить список аргументов "(std::vector, unsigned int)"
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(75): error C2530: layer: ссылки должны быть инициализированы
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(76): error C2678: бинарный "[": не найден оператор, принимающий левый операнд типа "std::vector" (или приемлемое преобразование отсутствует)
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\vector(1749): note: может быть "const _Ty &std::vector<_Ty,_Alloc>::operator [](const _Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::size_type) const"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\vector(1735): note: или       "_Ty &std::vector<_Ty,_Alloc>::operator [](const _Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::size_type)"
+  c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(76): note: при попытке сопоставить список аргументов "(std::vector, unsigned int)"
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(76): error C2530: prevLayer: ссылки должны быть инициализированы
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(87): error C2678: бинарный "[": не найден оператор, принимающий левый операнд типа "std::vector" (или приемлемое преобразование отсутствует)
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\vector(1749): note: может быть "const _Ty &std::vector<_Ty,_Alloc>::operator [](const _Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::size_type) const"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\vector(1735): note: или       "_Ty &std::vector<_Ty,_Alloc>::operator [](const _Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::size_type)"
+  c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(87): note: при попытке сопоставить список аргументов "(std::vector, int)"
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(87): error C2228: выражение слева от ".size" должно представлять класс, структуру или объединение
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(90): error C2678: бинарный "[": не найден оператор, принимающий левый операнд типа "std::vector" (или приемлемое преобразование отсутствует)
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\vector(1749): note: может быть "const _Ty &std::vector<_Ty,_Alloc>::operator [](const _Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::size_type) const"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\vector(1735): note: или       "_Ty &std::vector<_Ty,_Alloc>::operator [](const _Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::size_type)"
+  c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(90): note: при попытке сопоставить список аргументов "(std::vector, int)"
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(90): error C2228: выражение слева от ".setOutputVal" должно представлять класс, структуру или объединение
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(93): error C2662: _Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::size_type std::vector<_Ty,_Alloc>::size(void) noexcept const: невозможно преобразовать указатель "this" из "std::vector" в "const std::vector<_Ty,_Alloc> &"
+  c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(93): note: Причина: невозможно преобразовать "std::vector" в "const std::vector<_Ty,_Alloc>"
+  c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(93): note: Для преобразования требуется второй оператор пользовательского преобразования или конструктор
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(94): error C2678: бинарный "[": не найден оператор, принимающий левый операнд типа "std::vector" (или приемлемое преобразование отсутствует)
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\vector(1749): note: может быть "const _Ty &std::vector<_Ty,_Alloc>::operator [](const _Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::size_type) const"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\vector(1735): note: или       "_Ty &std::vector<_Ty,_Alloc>::operator [](const _Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::size_type)"
+  c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(94): note: при попытке сопоставить список аргументов "(std::vector, unsigned int)"
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(94): error C2530: prevLayer: ссылки должны быть инициализированы
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(95): error C2678: бинарный "[": не найден оператор, принимающий левый операнд типа "std::vector" (или приемлемое преобразование отсутствует)
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\vector(1749): note: может быть "const _Ty &std::vector<_Ty,_Alloc>::operator [](const _Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::size_type) const"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\vector(1735): note: или       "_Ty &std::vector<_Ty,_Alloc>::operator [](const _Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::size_type)"
+  c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(95): note: при попытке сопоставить список аргументов "(std::vector, unsigned int)"
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(95): error C2228: выражение слева от ".size" должно представлять класс, структуру или объединение
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(96): error C2678: бинарный "[": не найден оператор, принимающий левый операнд типа "std::vector" (или приемлемое преобразование отсутствует)
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\vector(1749): note: может быть "const _Ty &std::vector<_Ty,_Alloc>::operator [](const _Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::size_type) const"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\vector(1735): note: или       "_Ty &std::vector<_Ty,_Alloc>::operator [](const _Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::size_type)"
+  c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(96): note: при попытке сопоставить список аргументов "(std::vector, unsigned int)"
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.cpp(96): error C2228: выражение слева от ".feedForward" должно представлять класс, структуру или объединение
+  main.cpp
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.h(16): error C2065: Layer: необъявленный идентификатор
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.h(16): error C2923: std::vector: "Layer" не является допустимым аргументом типа шаблон для параметра "_Ty"
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.h(16): error C3203: "allocator": неспециализированный класс шаблон нельзя использовать в качестве аргумента шаблон для параметра шаблон "_Alloc", требуется действительный тип
+  fill.cpp
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.h(16): error C2065: Layer: необъявленный идентификатор
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.h(16): error C2923: std::vector: "Layer" не является допустимым аргументом типа шаблон для параметра "_Ty"
+c:\users\роман\documents\visual studio 2017\projects\neiron\net.h(16): error C3203: "allocator": неспециализированный класс шаблон нельзя использовать в качестве аргумента шаблон для параметра шаблон "_Alloc", требуется действительный тип
+  Создание кода...

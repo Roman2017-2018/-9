@@ -1,0 +1,7 @@
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\TextEditor,BL\bin\Release\TextEditor,BL.dll
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\TextEditor,BL\bin\Release\TextEditor,BL.pdb
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\TextEditor,BL\obj\Release\TextEditor,BL.csprojResolveAssemblyReference.cache
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\TextEditor,BL\obj\Release\TextEditor,BL.dll
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\TextEditor,BL\obj\Release\TextEditor,BL.pdb
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\TextEditor,BL\bin\Release\System.Net.Http.dll
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\TextEditor,BL\bin\Release\System.Net.Http.xml

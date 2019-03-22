@@ -1,0 +1,11 @@
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Микрофон\Микрофон\bin\Debug\Микрофон.exe.config
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Микрофон\Микрофон\bin\Debug\Микрофон.exe
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Микрофон\Микрофон\bin\Debug\Микрофон.pdb
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Микрофон\Микрофон\obj\Debug\Микрофон.csprojResolveAssemblyReference.cache
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Микрофон\Микрофон\obj\Debug\Микрофон.Form1.resources
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Микрофон\Микрофон\obj\Debug\Микрофон.Properties.Resources.resources
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Микрофон\Микрофон\obj\Debug\Микрофон.csproj.GenerateResource.Cache
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Микрофон\Микрофон\obj\Debug\Микрофон.exe
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Микрофон\Микрофон\obj\Debug\Микрофон.pdb
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Микрофон\Микрофон\bin\Debug\NAudio.dll
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Микрофон\Микрофон\bin\Debug\NAudio.xml

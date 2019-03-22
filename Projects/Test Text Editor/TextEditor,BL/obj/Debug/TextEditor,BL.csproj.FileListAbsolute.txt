@@ -1,0 +1,5 @@
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\TextEditor,BL\bin\Debug\TextEditor,BL.dll
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\TextEditor,BL\bin\Debug\TextEditor,BL.pdb
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\TextEditor,BL\obj\Debug\TextEditor,BL.csprojResolveAssemblyReference.cache
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\TextEditor,BL\obj\Debug\TextEditor,BL.dll
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\TextEditor,BL\obj\Debug\TextEditor,BL.pdb

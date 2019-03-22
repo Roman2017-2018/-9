@@ -1,0 +1,221 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication6.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  trainingSet.cpp
+c:\users\роман\desktop\dfdffd\nerualnet\trainingset.cpp(69): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
+  neuron.cpp
+c:\users\роман\desktop\dfdffd\nerualnet\neuron.cpp(76): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
+  net.cpp
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(6): error C2653: net: не является именем класса или пространства имен
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(8): error C2653: net: не является именем класса или пространства имен
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(8): error C2039: vector: не является членом "std"
+  c:\users\роман\documents\visual studio 2017\projects\consoleapplication6\consoleapplication6\predefined c++ types (compiler internal)(208): note:  см. объявление "std"
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(8): error C2143: синтаксическая ошибка: отсутствие "," перед "<"
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(10): error C2065: topology: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(10): error C2228: выражение слева от ".size" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(10): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(12): error C2065: layers: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(12): error C2228: выражение слева от ".push_back" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(12): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(12): error C3861: Layer: идентификатор не найден
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(13): error C2065: topology: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(13): error C2228: выражение слева от ".size" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(13): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(16): error C2065: topology: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(17): error C2065: layers: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(17): error C2228: выражение слева от ".back" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(17): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(17): error C2228: выражение слева от ".push_back" должно представлять класс, структуру или объединение
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(17): error C3861: neuron: идентификатор не найден
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(20): error C2065: layers: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(20): error C2228: выражение слева от ".back" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(20): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(20): error C2228: выражение слева от ".setOutputVal" должно представлять класс, структуру или объединение
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(22): warning C4508: net: функция должна возвращать значение; предполагается возвращаемый тип "void"
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(25): error C2653: net: не является именем класса или пространства имен
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(25): error C2039: vector: не является членом "std"
+  c:\users\роман\documents\visual studio 2017\projects\consoleapplication6\consoleapplication6\predefined c++ types (compiler internal)(208): note:  см. объявление "std"
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(25): error C2065: vector: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(25): error C2062: тип "double" не требуется
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(26): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(26): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(35): error C2653: net: не является именем класса или пространства имен
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(35): error C2039: vector: не является членом "std"
+  c:\users\роман\documents\visual studio 2017\projects\consoleapplication6\consoleapplication6\predefined c++ types (compiler internal)(208): note:  см. объявление "std"
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(35): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(35): error C2143: синтаксическая ошибка: отсутствие "," перед "<"
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(38): error C2065: Layer: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(38): error C2065: outputLayer: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(38): error C2065: layers: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(38): error C2228: выражение слева от ".back" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(38): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(39): error C2065: error: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(41): error C2065: outputLayer: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(41): error C2228: выражение слева от ".size" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(41): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(43): error C2065: targetVals: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(43): error C2065: outputLayer: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(43): error C2228: выражение слева от ".getOutputVal" должно представлять класс, структуру или объединение
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(44): error C2065: error: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(46): error C2065: error: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(46): error C2065: outputLayer: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(46): error C2228: выражение слева от ".size" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(46): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(47): error C2065: error: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(47): error C3861: sqrt: идентификатор не найден
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(50): error C2065: recentAverageError: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(51): error C2065: recentAverageError: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(51): error C2065: error: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(55): error C2065: outputLayer: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(55): error C2228: выражение слева от ".size" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(55): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(57): error C2065: outputLayer: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(57): error C2228: выражение слева от ".calcOutputGradients" должно представлять класс, структуру или объединение
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(57): error C2065: targetVals: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(60): error C2065: layers: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(60): error C2228: выражение слева от ".size" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(60): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(62): error C2065: Layer: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(62): error C2065: hiddenLayer: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(62): error C2065: layers: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(63): error C2065: Layer: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(63): error C2065: nextLayer: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(63): error C2065: layers: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(65): error C2065: hiddenLayer: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(65): error C2228: выражение слева от ".size" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(65): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(67): error C2065: hiddenLayer: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(67): error C2228: выражение слева от ".calcHiddenGradients" должно представлять класс, структуру или объединение
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(67): error C2065: nextLayer: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(72): error C2065: layers: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(72): error C2228: выражение слева от ".size" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(72): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(74): error C2065: Layer: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(74): error C2065: layer: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(74): error C2065: layers: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(75): error C2065: Layer: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(75): error C2065: prevLayer: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(75): error C2065: layers: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(77): error C2065: layer: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(77): error C2228: выражение слева от ".size" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(77): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(79): error C2065: layer: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(79): error C2228: выражение слева от ".updateInputWeights" должно представлять класс, структуру или объединение
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(79): error C2065: prevLayer: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(84): error C2653: net: не является именем класса или пространства имен
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(84): error C2039: vector: не является членом "std"
+  c:\users\роман\documents\visual studio 2017\projects\consoleapplication6\consoleapplication6\predefined c++ types (compiler internal)(208): note:  см. объявление "std"
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(84): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(84): error C2143: синтаксическая ошибка: отсутствие "," перед "<"
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(86): error C2065: inputVals: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(86): error C2228: выражение слева от ".size" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(86): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(86): error C2065: layers: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(86): error C3861: assert: идентификатор не найден
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(88): error C2065: inputVals: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(88): error C2228: выражение слева от ".size" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(88): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(89): error C2065: layers: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(89): error C2228: выражение слева от ".setOutputVal" должно представлять класс, структуру или объединение
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(89): error C2065: inputVals: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(92): error C2065: layers: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(92): error C2228: выражение слева от ".size" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(92): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(93): error C2065: Layer: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(93): error C2065: prevLayer: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(93): error C2065: layers: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(94): error C2065: layers: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(94): error C2228: выражение слева от ".size" должно представлять класс, структуру или объединение
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(95): error C2065: layers: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(95): error C2228: выражение слева от ".feedForward" должно представлять класс, структуру или объединение
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(95): error C2065: prevLayer: необъявленный идентификатор
+  main.cpp
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(5): error C2039: string: не является членом "std"
+  c:\users\роман\documents\visual studio 2017\projects\consoleapplication6\consoleapplication6\predefined c++ types (compiler internal)(208): note:  см. объявление "std"
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(5): error C2065: string: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(5): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "label"
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(5): error C2039: vector: не является членом "std"
+  c:\users\роман\documents\visual studio 2017\projects\consoleapplication6\consoleapplication6\predefined c++ types (compiler internal)(208): note:  см. объявление "std"
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(6): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(6): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(17): error C2065: trainingSet: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "trainingData"
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(17): error C3861: trainingData: идентификатор не найден
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(18): error C2039: vector: не является членом "std"
+  c:\users\роман\documents\visual studio 2017\projects\consoleapplication6\consoleapplication6\predefined c++ types (compiler internal)(208): note:  см. объявление "std"
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(18): error C2065: vector: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(18): error C2062: тип "unsigned int" не требуется
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(19): error C2065: trainingData: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(19): error C2228: выражение слева от ".getTopology" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(19): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(19): error C2065: topology: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(20): error C2065: net: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(20): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "net"
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(20): error C2065: topology: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(20): error C3861: net: идентификатор не найден
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(22): error C2039: vector: не является членом "std"
+  c:\users\роман\documents\visual studio 2017\projects\consoleapplication6\consoleapplication6\predefined c++ types (compiler internal)(208): note:  см. объявление "std"
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(22): error C2065: vector: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(22): error C2062: тип "double" не требуется
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(24): error C2065: trainingData: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(24): error C2228: выражение слева от ".isEOF" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(24): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(27): error C2039: cout: не является членом "std"
+  c:\users\роман\documents\visual studio 2017\projects\consoleapplication6\consoleapplication6\predefined c++ types (compiler internal)(208): note:  см. объявление "std"
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(27): error C2065: cout: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(27): error C2039: endl: не является членом "std"
+  c:\users\роман\documents\visual studio 2017\projects\consoleapplication6\consoleapplication6\predefined c++ types (compiler internal)(208): note:  см. объявление "std"
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(27): error C2065: endl: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(29): error C2065: trainingData: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(29): error C2228: выражение слева от ".getNextInputs" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(29): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(29): error C2065: inputVals: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(29): error C2065: topology: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(31): error C2065: inputVals: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(31): error C3861: showVectorVals: идентификатор не найден
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(32): error C2065: net: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(32): error C2228: выражение слева от ".feedForward" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(32): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(32): error C2065: inputVals: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(34): error C2065: trainingData: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(34): error C2228: выражение слева от ".getTargetOutputs" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(34): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(34): error C2065: targetVals: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(35): error C2065: targetVals: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(35): error C3861: showVectorVals: идентификатор не найден
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(36): error C2065: targetVals: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(36): error C2228: выражение слева от ".size" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(36): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(36): error C2065: topology: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(36): error C2228: выражение слева от ".back" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(36): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(36): error C3861: assert: идентификатор не найден
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(38): error C2065: net: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(38): error C2228: выражение слева от ".getResults" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(38): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(38): error C2065: resultVals: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(39): error C2065: resultVals: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(39): error C3861: showVectorVals: идентификатор не найден
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(41): error C2065: net: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(41): error C2228: выражение слева от ".backProp" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(41): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(41): error C2065: targetVals: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(43): error C2039: cout: не является членом "std"
+  c:\users\роман\documents\visual studio 2017\projects\consoleapplication6\consoleapplication6\predefined c++ types (compiler internal)(208): note:  см. объявление "std"
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(43): error C2065: cout: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(43): error C2065: net: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(43): error C2228: выражение слева от ".getRecentAverageError" должно представлять класс, структуру или объединение
+  c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(43): note: тип: unknown-type
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(43): error C2039: endl: не является членом "std"
+  c:\users\роман\documents\visual studio 2017\projects\consoleapplication6\consoleapplication6\predefined c++ types (compiler internal)(208): note:  см. объявление "std"
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(43): error C2065: endl: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(46): error C2039: cout: не является членом "std"
+  c:\users\роман\documents\visual studio 2017\projects\consoleapplication6\consoleapplication6\predefined c++ types (compiler internal)(208): note:  см. объявление "std"
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(46): error C2065: cout: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(46): error C2039: endl: не является членом "std"
+  c:\users\роман\documents\visual studio 2017\projects\consoleapplication6\consoleapplication6\predefined c++ types (compiler internal)(208): note:  см. объявление "std"
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(46): error C2065: endl: необъявленный идентификатор
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(47): error C3861: system: идентификатор не найден
+  fill.cpp
+c:\users\роман\desktop\dfdffd\nerualnet\fill.cpp(19): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
+  Создание кода...

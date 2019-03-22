@@ -1,0 +1,9 @@
+c:\users\роман\documents\visual studio 2017\Projects\брезенгер\брезенгер\obj\Debug\брезенгер.csprojResolveAssemblyReference.cache
+c:\users\роман\documents\visual studio 2017\Projects\брезенгер\брезенгер\obj\Debug\брезенгер.Form1.resources
+c:\users\роман\documents\visual studio 2017\Projects\брезенгер\брезенгер\obj\Debug\брезенгер.Properties.Resources.resources
+c:\users\роман\documents\visual studio 2017\Projects\брезенгер\брезенгер\obj\Debug\брезенгер.csproj.GenerateResource.Cache
+c:\users\роман\documents\visual studio 2017\Projects\брезенгер\брезенгер\bin\Debug\брезенгер.exe.config
+c:\users\роман\documents\visual studio 2017\Projects\брезенгер\брезенгер\bin\Debug\брезенгер.exe
+c:\users\роман\documents\visual studio 2017\Projects\брезенгер\брезенгер\bin\Debug\брезенгер.pdb
+c:\users\роман\documents\visual studio 2017\Projects\брезенгер\брезенгер\obj\Debug\брезенгер.exe
+c:\users\роман\documents\visual studio 2017\Projects\брезенгер\брезенгер\obj\Debug\брезенгер.pdb

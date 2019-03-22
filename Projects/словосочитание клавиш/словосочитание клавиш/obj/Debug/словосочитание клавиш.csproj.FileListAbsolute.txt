@@ -1,0 +1,9 @@
+c:\users\роман\documents\visual studio 2017\Projects\словосочитание клавиш\словосочитание клавиш\bin\Debug\словосочитание клавиш.exe.config
+c:\users\роман\documents\visual studio 2017\Projects\словосочитание клавиш\словосочитание клавиш\bin\Debug\словосочитание клавиш.exe
+c:\users\роман\documents\visual studio 2017\Projects\словосочитание клавиш\словосочитание клавиш\bin\Debug\словосочитание клавиш.pdb
+c:\users\роман\documents\visual studio 2017\Projects\словосочитание клавиш\словосочитание клавиш\obj\Debug\словосочитание клавиш.csprojResolveAssemblyReference.cache
+c:\users\роман\documents\visual studio 2017\Projects\словосочитание клавиш\словосочитание клавиш\obj\Debug\словосочитание_клавиш.Properties.Resources.resources
+c:\users\роман\documents\visual studio 2017\Projects\словосочитание клавиш\словосочитание клавиш\obj\Debug\словосочитание клавиш.csproj.GenerateResource.Cache
+c:\users\роман\documents\visual studio 2017\Projects\словосочитание клавиш\словосочитание клавиш\obj\Debug\словосочитание клавиш.exe
+c:\users\роман\documents\visual studio 2017\Projects\словосочитание клавиш\словосочитание клавиш\obj\Debug\словосочитание клавиш.pdb
+c:\users\роман\documents\visual studio 2017\Projects\словосочитание клавиш\словосочитание клавиш\obj\Debug\словосочитание_клавиш.KeyboardSend.resources

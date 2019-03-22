@@ -1,0 +1,9 @@
+c:\users\роман\documents\visual studio 2017\Projects\аааааааааааааааааааааааааа\аааааааааааааааааааааааааа\bin\Debug\аааааааааааааааааааааааааа.exe.config
+c:\users\роман\documents\visual studio 2017\Projects\аааааааааааааааааааааааааа\аааааааааааааааааааааааааа\bin\Debug\аааааааааааааааааааааааааа.exe
+c:\users\роман\documents\visual studio 2017\Projects\аааааааааааааааааааааааааа\аааааааааааааааааааааааааа\bin\Debug\аааааааааааааааааааааааааа.pdb
+c:\users\роман\documents\visual studio 2017\Projects\аааааааааааааааааааааааааа\аааааааааааааааааааааааааа\obj\Debug\аааааааааааааааааааааааааа.csprojResolveAssemblyReference.cache
+c:\users\роман\documents\visual studio 2017\Projects\аааааааааааааааааааааааааа\аааааааааааааааааааааааааа\obj\Debug\аааааааааааааааааааааааааа.Form1.resources
+c:\users\роман\documents\visual studio 2017\Projects\аааааааааааааааааааааааааа\аааааааааааааааааааааааааа\obj\Debug\аааааааааааааааааааааааааа.Properties.Resources.resources
+c:\users\роман\documents\visual studio 2017\Projects\аааааааааааааааааааааааааа\аааааааааааааааааааааааааа\obj\Debug\аааааааааааааааааааааааааа.csproj.GenerateResource.Cache
+c:\users\роман\documents\visual studio 2017\Projects\аааааааааааааааааааааааааа\аааааааааааааааааааааааааа\obj\Debug\аааааааааааааааааааааааааа.exe
+c:\users\роман\documents\visual studio 2017\Projects\аааааааааааааааааааааааааа\аааааааааааааааааааааааааа\obj\Debug\аааааааааааааааааааааааааа.pdb

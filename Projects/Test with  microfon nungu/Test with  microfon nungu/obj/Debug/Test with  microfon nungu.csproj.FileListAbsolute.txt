@@ -1,0 +1,11 @@
+c:\users\роман\documents\visual studio 2017\Projects\Test with  microfon nungu\Test with  microfon nungu\obj\Debug\Test with  microfon nungu.csprojResolveAssemblyReference.cache
+c:\users\роман\documents\visual studio 2017\Projects\Test with  microfon nungu\Test with  microfon nungu\obj\Debug\Test_with__microfon_nungu.Form1.resources
+c:\users\роман\documents\visual studio 2017\Projects\Test with  microfon nungu\Test with  microfon nungu\obj\Debug\Test_with__microfon_nungu.Properties.Resources.resources
+c:\users\роман\documents\visual studio 2017\Projects\Test with  microfon nungu\Test with  microfon nungu\obj\Debug\Test with  microfon nungu.csproj.GenerateResource.Cache
+c:\users\роман\documents\visual studio 2017\Projects\Test with  microfon nungu\Test with  microfon nungu\bin\Debug\Test with  microfon nungu.exe.config
+c:\users\роман\documents\visual studio 2017\Projects\Test with  microfon nungu\Test with  microfon nungu\bin\Debug\Test with  microfon nungu.exe
+c:\users\роман\documents\visual studio 2017\Projects\Test with  microfon nungu\Test with  microfon nungu\bin\Debug\Test with  microfon nungu.pdb
+c:\users\роман\documents\visual studio 2017\Projects\Test with  microfon nungu\Test with  microfon nungu\bin\Debug\NAudio.dll
+c:\users\роман\documents\visual studio 2017\Projects\Test with  microfon nungu\Test with  microfon nungu\bin\Debug\NAudio.xml
+c:\users\роман\documents\visual studio 2017\Projects\Test with  microfon nungu\Test with  microfon nungu\obj\Debug\Test with  microfon nungu.exe
+c:\users\роман\documents\visual studio 2017\Projects\Test with  microfon nungu\Test with  microfon nungu\obj\Debug\Test with  microfon nungu.pdb

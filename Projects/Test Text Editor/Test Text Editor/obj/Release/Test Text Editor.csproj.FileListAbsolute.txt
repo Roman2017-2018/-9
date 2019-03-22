@@ -1,0 +1,13 @@
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\Test Text Editor\obj\Release\Test Text Editor.csprojResolveAssemblyReference.cache
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\Test Text Editor\obj\Release\Test_Text_Editor.MainForm.resources
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\Test Text Editor\obj\Release\Test_Text_Editor.Properties.Resources.resources
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\Test Text Editor\obj\Release\Test Text Editor.csproj.GenerateResource.Cache
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\Test Text Editor\bin\Release\Test Text Editor.exe.config
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\Test Text Editor\bin\Release\Test Text Editor.exe
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\Test Text Editor\bin\Release\Test Text Editor.pdb
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\Test Text Editor\bin\Release\TextEditor,BL.dll
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\Test Text Editor\bin\Release\TextEditor,BL.pdb
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\Test Text Editor\obj\Release\Test Text Editor.exe
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\Test Text Editor\obj\Release\Test Text Editor.pdb
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\Test Text Editor\bin\Release\System.Net.Http.dll
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Test Text Editor\Test Text Editor\bin\Release\System.Net.Http.xml

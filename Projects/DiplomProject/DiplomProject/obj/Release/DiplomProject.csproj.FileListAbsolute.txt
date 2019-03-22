@@ -1,0 +1,10 @@
+C:\Users\роман\Documents\Visual Studio 2017\Projects\DiplomProject\DiplomProject\obj\Release\DiplomProject.csprojResolveAssemblyReference.cache
+C:\Users\роман\Documents\Visual Studio 2017\Projects\DiplomProject\DiplomProject\bin\Release\DiplomProject.exe.config
+C:\Users\роман\Documents\Visual Studio 2017\Projects\DiplomProject\DiplomProject\bin\Release\DiplomProject.exe
+C:\Users\роман\Documents\Visual Studio 2017\Projects\DiplomProject\DiplomProject\bin\Release\DiplomProject.pdb
+C:\Users\роман\Documents\Visual Studio 2017\Projects\DiplomProject\DiplomProject\obj\Release\DiplomProject.Form1.resources
+C:\Users\роман\Documents\Visual Studio 2017\Projects\DiplomProject\DiplomProject\obj\Release\DiplomProject.MainForm.resources
+C:\Users\роман\Documents\Visual Studio 2017\Projects\DiplomProject\DiplomProject\obj\Release\DiplomProject.Properties.Resources.resources
+C:\Users\роман\Documents\Visual Studio 2017\Projects\DiplomProject\DiplomProject\obj\Release\DiplomProject.csproj.GenerateResource.Cache
+C:\Users\роман\Documents\Visual Studio 2017\Projects\DiplomProject\DiplomProject\obj\Release\DiplomProject.exe
+C:\Users\роман\Documents\Visual Studio 2017\Projects\DiplomProject\DiplomProject\obj\Release\DiplomProject.pdb

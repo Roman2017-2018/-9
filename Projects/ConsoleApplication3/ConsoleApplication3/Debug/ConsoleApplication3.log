@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  ConsoleApplication3.cpp
+c:\users\роман\documents\visual studio 2017\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(122): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication3.vcxproj -> c:\users\роман\documents\visual studio 2017\Projects\ConsoleApplication3\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> c:\users\роман\documents\visual studio 2017\Projects\ConsoleApplication3\Debug\ConsoleApplication3.pdb (Partial PDB)

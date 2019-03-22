@@ -1,0 +1,6 @@
+c:\users\роман\documents\visual studio 2017\Projects\Урок34ке34\Урок34ке34\bin\Debug\Урок34ке34.exe.config
+c:\users\роман\documents\visual studio 2017\Projects\Урок34ке34\Урок34ке34\bin\Debug\Урок34ке34.exe
+c:\users\роман\documents\visual studio 2017\Projects\Урок34ке34\Урок34ке34\bin\Debug\Урок34ке34.pdb
+c:\users\роман\documents\visual studio 2017\Projects\Урок34ке34\Урок34ке34\obj\Debug\Урок34ке34.csprojResolveAssemblyReference.cache
+c:\users\роман\documents\visual studio 2017\Projects\Урок34ке34\Урок34ке34\obj\Debug\Урок34ке34.exe
+c:\users\роман\documents\visual studio 2017\Projects\Урок34ке34\Урок34ке34\obj\Debug\Урок34ке34.pdb

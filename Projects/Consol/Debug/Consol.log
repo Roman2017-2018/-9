@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  trainingSet.cpp
+c:\users\роман\desktop\dfdffd\nerualnet\trainingset.cpp(71): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
+  neuron.cpp
+c:\users\роман\desktop\dfdffd\nerualnet\neuron.cpp(79): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
+  net.cpp
+c:\users\роман\desktop\dfdffd\nerualnet\net.cpp(99): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
+  main.cpp
+c:\users\роман\desktop\dfdffd\nerualnet\main.cpp(50): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
+  fill.cpp
+c:\users\роман\desktop\dfdffd\nerualnet\fill.cpp(21): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
+  Создание кода...

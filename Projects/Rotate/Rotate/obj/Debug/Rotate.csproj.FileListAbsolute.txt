@@ -1,0 +1,9 @@
+c:\users\роман\documents\visual studio 2017\Projects\Rotate\Rotate\bin\Debug\Rotate.exe.config
+c:\users\роман\documents\visual studio 2017\Projects\Rotate\Rotate\bin\Debug\Rotate.exe
+c:\users\роман\documents\visual studio 2017\Projects\Rotate\Rotate\bin\Debug\Rotate.pdb
+c:\users\роман\documents\visual studio 2017\Projects\Rotate\Rotate\obj\Debug\Rotate.Form1.resources
+c:\users\роман\documents\visual studio 2017\Projects\Rotate\Rotate\obj\Debug\Rotate.Properties.Resources.resources
+c:\users\роман\documents\visual studio 2017\Projects\Rotate\Rotate\obj\Debug\Rotate.csproj.GenerateResource.Cache
+c:\users\роман\documents\visual studio 2017\Projects\Rotate\Rotate\obj\Debug\Rotate.exe
+c:\users\роман\documents\visual studio 2017\Projects\Rotate\Rotate\obj\Debug\Rotate.pdb
+C:\Users\роман\Documents\Visual Studio 2017\Projects\Rotate\Rotate\obj\Debug\Rotate.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\temp\testcsharp\BrezenhamLine4\BrezenhamLine4\bin\Debug\BrezenhamLine4.exe
+D:\temp\testcsharp\BrezenhamLine4\BrezenhamLine4\bin\Debug\BrezenhamLine4.pdb
+D:\temp\testcsharp\BrezenhamLine4\BrezenhamLine4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\temp\testcsharp\BrezenhamLine4\BrezenhamLine4\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\temp\testcsharp\BrezenhamLine4\BrezenhamLine4\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\temp\testcsharp\BrezenhamLine4\BrezenhamLine4\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\temp\testcsharp\BrezenhamLine4\BrezenhamLine4\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\temp\testcsharp\BrezenhamLine4\BrezenhamLine4\obj\x86\Debug\BrezenhamLine4.exe
+D:\temp\testcsharp\BrezenhamLine4\BrezenhamLine4\obj\x86\Debug\BrezenhamLine4.pdb

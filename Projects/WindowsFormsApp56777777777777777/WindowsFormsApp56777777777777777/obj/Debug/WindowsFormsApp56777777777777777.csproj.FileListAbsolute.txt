@@ -1,0 +1,9 @@
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp56777777777777777\WindowsFormsApp56777777777777777\bin\Debug\WindowsFormsApp56777777777777777.exe.config
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp56777777777777777\WindowsFormsApp56777777777777777\bin\Debug\WindowsFormsApp56777777777777777.exe
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp56777777777777777\WindowsFormsApp56777777777777777\bin\Debug\WindowsFormsApp56777777777777777.pdb
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp56777777777777777\WindowsFormsApp56777777777777777\obj\Debug\WindowsFormsApp56777777777777777.csprojResolveAssemblyReference.cache
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp56777777777777777\WindowsFormsApp56777777777777777\obj\Debug\WindowsFormsApp56777777777777777.Form1.resources
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp56777777777777777\WindowsFormsApp56777777777777777\obj\Debug\WindowsFormsApp56777777777777777.Properties.Resources.resources
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp56777777777777777\WindowsFormsApp56777777777777777\obj\Debug\WindowsFormsApp56777777777777777.csproj.GenerateResource.Cache
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp56777777777777777\WindowsFormsApp56777777777777777\obj\Debug\WindowsFormsApp56777777777777777.exe
+c:\users\роман\documents\visual studio 2017\Projects\WindowsFormsApp56777777777777777\WindowsFormsApp56777777777777777\obj\Debug\WindowsFormsApp56777777777777777.pdb

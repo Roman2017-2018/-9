@@ -1,0 +1,8 @@
+C:\Users\роман\Documents\Visual Studio 2017\Projects\урок\урок\bin\Debug\урок.exe.config
+C:\Users\роман\Documents\Visual Studio 2017\Projects\урок\урок\bin\Debug\урок.exe
+C:\Users\роман\Documents\Visual Studio 2017\Projects\урок\урок\bin\Debug\урок.pdb
+C:\Users\роман\Documents\Visual Studio 2017\Projects\урок\урок\obj\Debug\урок.csprojResolveAssemblyReference.cache
+C:\Users\роман\Documents\Visual Studio 2017\Projects\урок\урок\obj\Debug\урок.exe
+C:\Users\роман\Documents\Visual Studio 2017\Projects\урок\урок\obj\Debug\урок.pdb
+C:\Users\роман\Documents\Visual Studio 2017\Projects\урок\урок\obj\Debug\урок.Form1.resources
+C:\Users\роман\Documents\Visual Studio 2017\Projects\урок\урок\obj\Debug\урок.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+C:\Users\роман\Documents\Visual Studio 2017\Projects\калькулятор для диплома\калькулятор для диплома\bin\Debug\калькулятор для диплома.exe.config
+C:\Users\роман\Documents\Visual Studio 2017\Projects\калькулятор для диплома\калькулятор для диплома\bin\Debug\калькулятор для диплома.exe
+C:\Users\роман\Documents\Visual Studio 2017\Projects\калькулятор для диплома\калькулятор для диплома\bin\Debug\калькулятор для диплома.pdb
+C:\Users\роман\Documents\Visual Studio 2017\Projects\калькулятор для диплома\калькулятор для диплома\obj\Debug\калькулятор для диплома.csprojResolveAssemblyReference.cache
+C:\Users\роман\Documents\Visual Studio 2017\Projects\калькулятор для диплома\калькулятор для диплома\obj\Debug\калькулятор для диплома.exe
+C:\Users\роман\Documents\Visual Studio 2017\Projects\калькулятор для диплома\калькулятор для диплома\obj\Debug\калькулятор для диплома.pdb

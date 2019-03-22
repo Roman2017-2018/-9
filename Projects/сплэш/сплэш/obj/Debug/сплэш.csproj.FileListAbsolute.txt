@@ -1,0 +1,11 @@
+C:\Users\роман\documents\visual studio 2017\Projects\сплэш\сплэш\obj\Debug\сплэш.Form1.resources
+C:\Users\роман\documents\visual studio 2017\Projects\сплэш\сплэш\obj\Debug\сплэш.Properties.Resources.resources
+C:\Users\роман\documents\visual studio 2017\Projects\сплэш\сплэш\obj\Debug\сплэш.csproj.GenerateResource.Cache
+C:\Users\роман\documents\visual studio 2017\Projects\сплэш\сплэш\bin\Debug\сплэш.exe.config
+C:\Users\роман\documents\visual studio 2017\Projects\сплэш\сплэш\bin\Debug\сплэш.exe
+C:\Users\роман\documents\visual studio 2017\Projects\сплэш\сплэш\bin\Debug\сплэш.pdb
+C:\Users\роман\documents\visual studio 2017\Projects\сплэш\сплэш\obj\Debug\сплэш.exe
+C:\Users\роман\documents\visual studio 2017\Projects\сплэш\сплэш\obj\Debug\сплэш.pdb
+C:\Users\роман\documents\visual studio 2017\Projects\сплэш\сплэш\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\роман\documents\visual studio 2017\Projects\сплэш\сплэш\bin\Debug\ru\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\роман\documents\visual studio 2017\Projects\сплэш\сплэш\obj\Debug\сплэш.Form2.resources
