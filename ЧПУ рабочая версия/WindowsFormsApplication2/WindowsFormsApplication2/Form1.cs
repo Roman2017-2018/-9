@@ -7,6 +7,7 @@ using System.Text.RegularExpressions;
 
 namespace WindowsFormsApplication2
 {
+    using System.Drawing;
     using System.Globalization;
     using System.Runtime.Serialization.Formatters;
 
@@ -26,7 +27,7 @@ public Form1()
 int z = 0; int z1 = 1; int z2 = 2; private static string RxString = "";int ppc2 = 0;int ppc1 = 0;int ppc = 0;
 private void button1_Click(object sender, EventArgs e)
 {
-
+    richTextBox3.Clear();
     OpenFileDialog op = new OpenFileDialog();
     op.InitialDirectory = "С:\\";
     op.Filter = "Txt files (*.txt)|*.txt|All Fiels(*.*)|*.*";
@@ -35,8 +36,28 @@ private void button1_Click(object sender, EventArgs e)
     if (op.ShowDialog() == DialogResult.OK)
         richTextBox1.Text = File.ReadAllText(op.FileName);
         SmartParser parser = new SmartParser(op.FileName);
-        richTextBox3.Text = parser.ToString();
-    return;
+            var text = parser.ToString();
+            richTextBox3.Text += text;
+            var someTemp = parser.errorStatus;
+            richTextBox3.Text += someTemp.Item2;
+            richTextBox3.Text += parser.errorLsit;
+            if (someTemp.Item1) {
+                richTextBox3.Select(
+                text.Length - someTemp.Item2.Length,
+                someTemp.Item2.Length
+            );
+                richTextBox3.SelectionColor = Color.Green;
+            }
+            else {
+               richTextBox3.Select(
+                   text.Length - someTemp.Item2.Length - 7,
+                   someTemp.Item2.Length - 2
+               );
+               richTextBox3.SelectionColor = Color.Red;
+            }
+            //richTextBox3.ForeColor = Color.Black;
+            //richTextBox3.SelectionColor = richTextBox3.ForeColor;
+            return;
             List<string> data = new List<string>();
     foreach (var lineOfData in richTextBox1.Text.Split('\n'))
     {

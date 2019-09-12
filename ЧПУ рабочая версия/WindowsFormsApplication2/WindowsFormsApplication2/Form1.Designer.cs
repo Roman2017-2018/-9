@@ -86,6 +86,7 @@
             // 
             // richTextBox3
             // 
+            this.richTextBox3.ForeColor = System.Drawing.Color.Black;
             this.richTextBox3.Location = new System.Drawing.Point(309, 116);
             this.richTextBox3.Name = "richTextBox3";
             this.richTextBox3.Size = new System.Drawing.Size(389, 360);

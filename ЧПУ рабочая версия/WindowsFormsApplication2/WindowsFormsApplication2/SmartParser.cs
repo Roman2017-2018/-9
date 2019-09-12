@@ -6,50 +6,239 @@ using System.Text.RegularExpressions;
 
 namespace WindowsFormsApplication2
 {
-class SmartParser
-{
-private List<LineOfCommand> comands;
-private List<Tuple<char, string>> error;
-public string path {get { return path;}
-    set {
-        List<string> linesOfRowCommands = new List<string>(File.ReadAllText(value).Split('\r', '\n'));
-        List<Tuple<char, double>> doubleList = new List<Tuple<char, double>>();
-        List<List<Tuple<char, string>>> list = new List<List<Tuple<char, string>>>();
-        error = new List<Tuple<char, string>>();
-        comands = new List<LineOfCommand>();
-        foreach (var item in linesOfRowCommands) {
-            var temp = parse(item);
-            if (temp != null && temp.Count != null && temp.Count != 0)
-                list.Add(temp);
+    class SmartParser {
+public Tuple<bool, string> errorStatus { get {
+        if (error.Count > 1) {
+            return Tuple.Create(false, "******************Unknown commands**********************\r\n");
         }
-        foreach (var item in list) {
-            var line = new LineOfCommand();
-            foreach (var index in item) {
-                doubleList.Add(Tuple.Create(index.Item1, convertToDouble(index.Item2)));
-                switch (index.Item1) {
-                    case 'F':
-                        line.F = new Comand(index.Item1, convertToDouble(index.Item2));
-                        break;
-                    case 'G':
-                        line.G = new Comand(index.Item1, convertToDouble(index.Item2));
-                        break;
-                    case 'X':
-                        line.X = new Comand(index.Item1, convertToDouble(index.Item2));
-                        break;
-                    case 'Y':
-                        line.Y = new Comand(index.Item1, convertToDouble(index.Item2));
-                        break;
-                    case 'Z':
-                        line.Z = new Comand(index.Item1, convertToDouble(index.Item2));
-                        break;
-                    default:
-                        error.Add(Tuple.Create(index.Item1, index.Item2));
-                        break;
-                }
-            }
-            comands.Add(line);
+        else {
+            return Tuple.Create(true, "******************All commands processed **********************\r\n");
         }
     }
+
+    set { }
+}
+public string errorLsit { get {
+        var str = "";
+        if (error.Count > 1) {
+            foreach (var temp in error) {
+                str += temp.Item1.ToString() + " = " + temp.Item2 + " \r\n";
+            }
+        }
+        return str;
+    } }
+private List<LineOfCommand> comands;
+private List<Tuple<char, string>> error;
+private List<LineOfCommand> universalCommands;
+
+public string path {get { return path;}
+    set {
+        var sourse = File.ReadAllText(value);
+        regularExpParse(sourse);
+        //List<string> linesOfRowCommands = new List<string>(sourse.Split('\r', '\n'));
+        //List<Tuple<char, double>> doubleList = new List<Tuple<char, double>>();
+        //List<List<Tuple<char, string>>> list = new List<List<Tuple<char, string>>>();
+        //error = new List<Tuple<char, string>>();
+        //comands = new List<LineOfCommand>();
+        //foreach (var item in linesOfRowCommands) {
+        //    var temp = parse(item);
+        //    if (temp != null && temp.Count != null && temp.Count != 0)
+        //        list.Add(temp);
+        //}
+        //foreach (var item in list) {
+        //    var line = new LineOfCommand();
+        //    foreach (var index in item) {
+        //        doubleList.Add(Tuple.Create(index.Item1, convertToDouble(index.Item2)));
+        //        switch (index.Item1) {
+        //            case 'F':
+        //                line.F = new Comand(index.Item1, convertToDouble(index.Item2));
+        //                break;
+        //            case 'G':
+        //                line.G = new Comand(index.Item1, convertToDouble(index.Item2));
+        //                break;
+        //            case 'X':
+        //                line.X = new Comand(index.Item1, convertToDouble(index.Item2));
+        //                break;
+        //            case 'Y':
+        //                line.Y = new Comand(index.Item1, convertToDouble(index.Item2));
+        //                break;
+        //            case 'Z':
+        //                line.Z = new Comand(index.Item1, convertToDouble(index.Item2));
+        //                break;
+        //            default:
+        //                error.Add(Tuple.Create(index.Item1, index.Item2));
+        //                break;
+        //        }
+        //    }
+        //    comands.Add(line);
+        //}
+    }
+}
+
+//-----------------------------------------------------------------------------
+public void regularExpParse(string sourse) {
+    Regex regex = new Regex(
+        @"[a-z][+-]?\d+[,.]?\d*",
+        RegexOptions.Multiline | RegexOptions.IgnoreCase
+    );
+    universalCommands = new List<LineOfCommand>();
+    List<Tuple<char, double>> list = new List<Tuple<char, double>>();
+    error = new List<Tuple<char, string>>();
+    for (Match match = regex.Match(sourse); match.Success; match = match.NextMatch()) {
+        var tempVal = match.Value.ToUpper();
+                switch (tempVal[0]) {
+                    case 'F':
+                        list.Add(Tuple.Create(tempVal[0], toDouble(tempVal)));
+                        break;
+                    case 'G':
+                        list.Add(Tuple.Create(tempVal[0], toDouble(tempVal)));
+                        break;
+                    case 'X':
+                        list.Add(Tuple.Create(tempVal[0], toDouble(tempVal)));
+                        break;
+                    case 'Y':
+                        list.Add(Tuple.Create(tempVal[0], toDouble(tempVal)));
+                        break;
+                    case 'Z':
+                        list.Add(Tuple.Create(tempVal[0], toDouble(tempVal)));
+                        break;
+                    default:
+                        error.Add(Tuple.Create(tempVal[0], tempVal.Substring(1, tempVal.Length - 1)));
+                        break;
+                } 
+    }
+    int completedItems = 0; Tuple<int, LineOfCommand> result = Tuple.Create(0,new LineOfCommand());
+    for (int i = 0; i < list.Count; i++) {
+        if (completedItems == list.Count)
+            return;
+        result = findLineOfCommand(list.GetRange(completedItems, list.Count - completedItems));
+        completedItems += result.Item1;
+        universalCommands.Add(result.Item2);   
+    }
+
+
+}
+//-----------------------------------------------------------------------------
+private Tuple<int, LineOfCommand> findLineOfCommand(List<Tuple<char, double>> list) {
+            if (list.Count > 5) {
+
+                LineOfCommand command = new LineOfCommand();
+                for (int i = 0; i < 5; i++) {
+                    switch (list[i].Item1) {
+                        case 'F':
+                            if (!command.F.value.HasValue) {
+                                command.F.type = list[i].Item1;
+                                command.F.value = list[i].Item2;
+                            }
+                            else
+                                return Tuple.Create(i, command);
+                            break;
+                        case 'G':
+                            if (!command.G.value.HasValue) {
+                                command.G.type = list[i].Item1;
+                                command.G.value = list[i].Item2;
+                            }
+                            else
+                                return Tuple.Create(i, command);
+                            break;
+                        case 'X':
+                            if (!command.X.value.HasValue) {
+                                command.X.type = list[i].Item1;
+                                command.X.value = list[i].Item2;
+                            }
+                            else
+                                return Tuple.Create(i, command);
+                            break;
+                        case 'Y':
+                            if (!command.Y.value.HasValue) {
+                                command.Y.type = list[i].Item1;
+                                command.Y.value = list[i].Item2;
+                            }
+                            else
+                                return Tuple.Create(i, command);
+                            break;
+                        case 'Z':
+                            if (!command.Z.value.HasValue) {
+                                command.Z.type = list[i].Item1;
+                                command.Z.value = list[i].Item2;
+                            }
+                            else
+                                return Tuple.Create(i, command);
+                            break;
+                    }
+
+                }
+                return Tuple.Create(5, command);
+            }
+            else {
+
+                LineOfCommand command = new LineOfCommand();
+                for (int i = 0; i < list.Count; i++) {
+                    switch (list[i].Item1) {
+                        case 'F':
+                            if (!command.F.value.HasValue) {
+                                command.F.type = list[i].Item1;
+                                command.F.value = list[i].Item2;
+                            }
+                            else
+                                return Tuple.Create(i, command);
+                            break;
+                        case 'G':
+                            if (!command.G.value.HasValue) {
+                                command.G.type = list[i].Item1;
+                                command.G.value = list[i].Item2;
+                            }
+                            else
+                                return Tuple.Create(i, command);
+                            break;
+                        case 'X':
+                            if (!command.X.value.HasValue) {
+                                command.X.type = list[i].Item1;
+                                command.X.value = list[i].Item2;
+                            }
+                            else
+                                return Tuple.Create(i, command);
+                            break;
+                        case 'Y':
+                            if (!command.Y.value.HasValue) {
+                                command.Y.type = list[i].Item1;
+                                command.Y.value = list[i].Item2;
+                            }
+                            else
+                                return Tuple.Create(i, command);
+                            break;
+                        case 'Z':
+                            if (!command.G.value.HasValue) {
+                                command.G.type = list[i].Item1;
+                                command.G.value = list[i].Item2;
+                            }
+                            else
+                                return Tuple.Create(i, command);
+                            break;
+                    }
+
+                }
+                return Tuple.Create(list.Count, command);
+
+            }
+        }
+
+//-----------------------------------------------------------------------------
+private double toDouble(string sourse) {
+
+    foreach (var item in sourse) {
+        if (item == '.' || item == ',')
+            sourse = sourse.Replace(
+                item,
+                Convert.ToChar(
+                    CultureInfo.
+                    CurrentCulture.
+                    NumberFormat.
+                    NumberDecimalSeparator
+                )
+            );     
+    }
+    return Convert.ToDouble(sourse.Substring(1, sourse.Length - 1));
 }
 
 //-----------------------------------------------------------------------------
@@ -174,7 +363,7 @@ private double convertToDouble(string sourse) {
 //-----------------------------------------------------------------------------
 public override string ToString() {
     string output = "";
-    foreach (var temp in comands) {
+    foreach (var temp in universalCommands) {
         if (temp.F.value.HasValue)
             output += "F = " + temp.F.value.Value.ToString("F3") + " ";
         if (temp.G.value.HasValue)
@@ -187,10 +376,15 @@ public override string ToString() {
             output += "Z = " + temp.Z.value.Value.ToString("F3") + " ";
         output += "\r\n";
     }
-    output += "******************Unknown commands**********************\r\n";
-    foreach (var temp in error) {
-        output += temp.Item1.ToString() + " = " + temp.Item2 + " \r\n";
-    }
+            //if (error.Count > 1) {
+            //    output += "******************Unknown commands**********************\r\n";
+            //    foreach (var temp in error) {
+            //        output += temp.Item1.ToString() + " = " + temp.Item2 + " \r\n";
+            //    }
+            //}
+            //else {
+            //    output += "******************All commands processed **********************\r\n";
+            //}
     return output;
 }
 

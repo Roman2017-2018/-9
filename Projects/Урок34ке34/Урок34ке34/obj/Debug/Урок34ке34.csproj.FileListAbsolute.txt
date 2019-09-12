@@ -4,3 +4,9 @@ c:\users\роман\documents\visual studio 2017\Projects\Урок34ке34\Ур�
 c:\users\роман\documents\visual studio 2017\Projects\Урок34ке34\Урок34ке34\obj\Debug\Урок34ке34.csprojResolveAssemblyReference.cache
 c:\users\роман\documents\visual studio 2017\Projects\Урок34ке34\Урок34ке34\obj\Debug\Урок34ке34.exe
 c:\users\роман\documents\visual studio 2017\Projects\Урок34ке34\Урок34ке34\obj\Debug\Урок34ке34.pdb
+D:\C#\-9.git\trunk\Projects\Урок34ке34\Урок34ке34\bin\Debug\Урок34ке34.exe.config
+D:\C#\-9.git\trunk\Projects\Урок34ке34\Урок34ке34\bin\Debug\Урок34ке34.exe
+D:\C#\-9.git\trunk\Projects\Урок34ке34\Урок34ке34\bin\Debug\Урок34ке34.pdb
+D:\C#\-9.git\trunk\Projects\Урок34ке34\Урок34ке34\obj\Debug\Урок34ке34.csproj.CoreCompileInputs.cache
+D:\C#\-9.git\trunk\Projects\Урок34ке34\Урок34ке34\obj\Debug\Урок34ке34.exe
+D:\C#\-9.git\trunk\Projects\Урок34ке34\Урок34ке34\obj\Debug\Урок34ке34.pdb

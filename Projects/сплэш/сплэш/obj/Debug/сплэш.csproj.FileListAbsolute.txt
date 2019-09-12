@@ -9,3 +9,16 @@ C:\Users\роман\documents\visual studio 2017\Projects\сплэш\сплэш\
 C:\Users\роман\documents\visual studio 2017\Projects\сплэш\сплэш\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
 C:\Users\роман\documents\visual studio 2017\Projects\сплэш\сплэш\bin\Debug\ru\Microsoft.VisualBasic.PowerPacks.resources.dll
 C:\Users\роман\documents\visual studio 2017\Projects\сплэш\сплэш\obj\Debug\сплэш.Form2.resources
+D:\C#\-9.git\trunk\Projects\сплэш\сплэш\bin\Debug\сплэш.exe.config
+D:\C#\-9.git\trunk\Projects\сплэш\сплэш\bin\Debug\сплэш.exe
+D:\C#\-9.git\trunk\Projects\сплэш\сплэш\bin\Debug\сплэш.pdb
+D:\C#\-9.git\trunk\Projects\сплэш\сплэш\bin\Debug\ru\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\C#\-9.git\trunk\Projects\сплэш\сплэш\obj\Debug\сплэш.csprojAssemblyReference.cache
+D:\C#\-9.git\trunk\Projects\сплэш\сплэш\obj\Debug\сплэш.Form1.resources
+D:\C#\-9.git\trunk\Projects\сплэш\сплэш\obj\Debug\сплэш.Form2.resources
+D:\C#\-9.git\trunk\Projects\сплэш\сплэш\obj\Debug\сплэш.Properties.Resources.resources
+D:\C#\-9.git\trunk\Projects\сплэш\сплэш\obj\Debug\сплэш.csproj.GenerateResource.cache
+D:\C#\-9.git\trunk\Projects\сплэш\сплэш\obj\Debug\сплэш.csproj.CoreCompileInputs.cache
+D:\C#\-9.git\trunk\Projects\сплэш\сплэш\obj\Debug\сплэш.csproj.CopyComplete
+D:\C#\-9.git\trunk\Projects\сплэш\сплэш\obj\Debug\сплэш.exe
+D:\C#\-9.git\trunk\Projects\сплэш\сплэш\obj\Debug\сплэш.pdb

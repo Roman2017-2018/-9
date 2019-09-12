@@ -16,3 +16,13 @@ C:\Users\роман\Desktop\Изучение C#\Множества Урок № 
 C:\Users\роман\Desktop\Изучение C#\Множества Урок № 9\Наруто нтсд\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
 C:\Users\роман\Desktop\Изучение C#\Множества Урок № 9\Наруто нтсд\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\роман\Desktop\Изучение C#\Множества Урок № 9\Наруто нтсд\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\-9.git\trunk\Наруто нтсд\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\-9.git\trunk\Наруто нтсд\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\-9.git\trunk\Наруто нтсд\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\-9.git\trunk\Наруто нтсд\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\-9.git\trunk\Наруто нтсд\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Desktop\-9.git\trunk\Наруто нтсд\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\-9.git\trunk\Наруто нтсд\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\-9.git\trunk\Наруто нтсд\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\-9.git\trunk\Наруто нтсд\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\-9.git\trunk\Наруто нтсд\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

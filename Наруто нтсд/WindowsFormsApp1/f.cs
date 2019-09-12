@@ -107,19 +107,18 @@ namespace WindowsFormsApp1
         private void SetListText()
         {
             IDataObject data = Clipboard.GetDataObject();
-            if (data != null && data.GetDataPresent(DataFormats.Text))
-            {
+            if (data != null && data.GetDataPresent(DataFormats.Text)) {
 
 
 
 
+            //   Process[] proc1 = Process.GetProcesses();
 
-
-                Process[] proc = Process.GetProcessesByName("NTSD");
+                Process [] proc = Process.GetProcessesByName("NTSD");  
 
                 // Bu kadar basit kodlar Youtube acıklama kısmındadır 
                 // Bir dahaki videoda görüşmek üzere :)
-                if (proc[0] == null || proc.Length == 0)
+                if (proc[0] == null )
                 {
                     Debug.WriteLine("Uygulama Bulunamadı");
                     return;
@@ -131,7 +130,7 @@ namespace WindowsFormsApp1
 
                 //IntPtr val = new IntPtr((Int32)c);
                 //Debug.WriteLine(c + " = dec: " + charValue + ", hex: " + hexValue + ", val: " + val);
-                //PostMessage(proc[0].MainWindowHandle, WM_CHAR, (IntPtr)Keys.J, new IntPtr(0)); System.Threading.Thread.Sleep(100);
+                //PostMessage(proc.MainWindowHandle, WM_CHAR, (IntPtr)Keys.J, new IntPtr(0)); System.Threading.Thread.Sleep(100);
                 for (int i = 0; i < 1; i++)
                 {
                     ////////////////////////////////////////////////////////////PostMessage(proc[0].MainWindowHandle, 0x100, (IntPtr)Keys.Oem7, IntPtr.Zero);
@@ -269,7 +268,7 @@ namespace WindowsFormsApp1
 
 
 
-                Process[] proc = Process.GetProcessesByName("NTSD");
+                Process[] proc = Process.GetProcessesByName("NTSD 2.4 ");
 
               
                 if (proc[0] == null || proc.Length == 0)
